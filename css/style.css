@@ -1,0 +1,17 @@
+.rec-img {
+  margin:  10px auto;
+  width: 400px;
+}
+
+.rec-img img {
+  width: 100%;
+  height: auto;
+}
+
+.buy-buttons {
+  margin: auto;
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+}
